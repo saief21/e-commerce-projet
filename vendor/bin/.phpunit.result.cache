@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CartTest::testCalculateTotal":7,"CartTest::testRemoveItem":8,"ProductTest::testGetProductsFromApi":8},"times":{"CartTest::testCalculateTotal":0.02,"CartTest::testRemoveItem":0.001,"ProductTest::testGetProductsFromApi":0.031}}
